@@ -19,7 +19,7 @@ IslamicProAI is Bangladesh's first Halal AI + E-commerce platform, built by Huss
 
 ## Audit Scope
 
-- Web application (noormarket.ai)
+- Web application 
 - API endpoints
 - Authentication system
 - Payment flow
